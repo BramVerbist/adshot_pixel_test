@@ -1,0 +1,19 @@
+{
+  "name": "pixel_test",
+  "version": "1.0.0",
+  "description": "Test pixel of obs stream\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[check pi\u001b[C\u001b[Dxel of obs stream",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"We are too cool for that.\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "r",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-form-data": "^2.0.14",
+    "jimp": "^0.16.1",
+    "node-fetch": "^2.6.1"
+  }
+}
