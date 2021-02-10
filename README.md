@@ -20,7 +20,7 @@ Opstarten:
 $ npm start
 ```
 
-Open een browser in obs met deze url[url](http://localhost:8080/browser.html):
+Open een browser in obs met deze [url](http://localhost:8080/browser.html):
 
 http://localhost:8080/browser.html
 
